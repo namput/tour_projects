@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>รายละเอียดสถานที่</title>
+  <link rel="stylesheet" href="styles/detail.css">
+  <link rel="stylesheet" href="styles/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Prompt:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="header">
+    <h1>รายละเอียดสถานที่</h1>
+  </header>
+
+  <main class="container">
+    <!-- ภาพสไลด์ -->
+    <div class="slider-container">
+      <button class="slider-btn prev" onclick="prevSlide()">&#10094;</button>
+      <div class="slider" id="slides">
+        <!-- รูปภาพจะถูกโหลดจาก API -->
+      </div>
+      <button class="slider-btn next" onclick="nextSlide()">&#10095;</button>
+    </div>
+
+    <!-- รายละเอียดสถานที่ -->
+    <section id="details" class="details">
+      <!-- รายละเอียดสถานที่จะถูกโหลดจาก API -->
+    </section>
+
+    <!-- รีวิว -->
+    <section class="reviews">
+      <h3>รีวิวจากผู้ใช้</h3>
+      <div id="review-list">
+        <!-- รีวิวจะถูกเพิ่มผ่าน JavaScript -->
+      </div>
+    </section>
+
+    <!-- เพิ่มรีวิวใหม่ -->
+    <section class="add-review">
+      <h3>เขียนรีวิว</h3>
+      <input type="text" id="reviewer-name" placeholder="ชื่อของคุณ" />
+      <textarea id="review-comment" placeholder="แสดงความคิดเห็น..." rows="4"></textarea>
+      <select id="review-rating">
+        <option value="5">5 ดาว</option>
+        <option value="4">4 ดาว</option>
+        <option value="3">3 ดาว</option>
+        <option value="2">2 ดาว</option>
+        <option value="1">1 ดาว</option>
+      </select>
+      <button class="submit-btn" onclick="addReview()">ส่งรีวิว</button>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>© 2024 เว็บไซต์แนะนำสถานที่ท่องเที่ยว</p>
+  </footer>
+
+  <script src="scripts/detail.js"></script>
+</body>
+</html>

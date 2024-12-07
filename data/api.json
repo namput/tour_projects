@@ -1,0 +1,169 @@
+[
+  {
+    "id": "1",
+    "name": "เกาะสมุย",
+    "description": "ชายหาดที่งดงามและน้ำทะเลใส",
+    "image": "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg",
+     "additionalImages": [
+      "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg",
+      "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg",
+      "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg",
+      "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg"
+    ],
+    "reviews": [
+      {
+        "user": "John Doe",
+        "comment": "สถานที่สวยมาก!",
+        "rating": 4.5
+      },
+      {
+        "user": "Jane Smith",
+        "comment": "ชอบมากค่ะ!",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "เชียงใหม่",
+    "description": "ธรรมชาติที่สวยงามและวัฒนธรรมท้องถิ่น",
+    "image": "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg",
+     "additionalImages": [
+      "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg",
+      "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg",
+      "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg",
+      "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg"
+    ],
+    "reviews": [
+      {
+        "user": "John Doe",
+        "comment": "สถานที่สวยมาก!",
+        "rating": 4.5
+      },
+      {
+        "user": "Jane Smith",
+        "comment": "ชอบมากค่ะ!",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "ภูเก็ต",
+    "description": "เกาะที่มีชายหาดสวยงามและกิจกรรมสนุกสนาน",
+    "image": "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg",
+     "additionalImages": [
+      "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg",
+      "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg",
+      "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg",
+      "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg"
+    ],
+    "reviews": [
+      {
+        "user": "John Doe",
+        "comment": "สถานที่สวยมาก!",
+        "rating": 4.5
+      },
+      {
+        "user": "Jane Smith",
+        "comment": "ชอบมากค่ะ!",
+        "rating": 5.0
+      }
+    ]
+  },  {
+    "id": "1",
+    "name": "เกาะสมุย",
+    "description": "ชายหาดที่งดงามและน้ำทะเลใส",
+    "image": "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg",
+     "additionalImages": [
+      "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg",
+      "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg",
+      "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg",
+      "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg"
+    ],
+    "reviews": [
+      {
+        "user": "John Doe",
+        "comment": "สถานที่สวยมาก!",
+        "rating": 4.5
+      },
+      {
+        "user": "Jane Smith",
+        "comment": "ชอบมากค่ะ!",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "เชียงใหม่",
+    "description": "ธรรมชาติที่สวยงามและวัฒนธรรมท้องถิ่น",
+    "image": "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg",
+    "additionalImages": [
+      "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg",
+      "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg",
+      "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg",
+      "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg"
+    ],
+    "reviews": [
+      {
+        "user": "John Doe",
+        "comment": "สถานที่สวยมาก!",
+        "rating": 4.5
+      },
+      {
+        "user": "Jane Smith",
+        "comment": "ชอบมากค่ะ!",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "ภูเก็ต",
+    "description": "เกาะที่มีชายหาดสวยงามและกิจกรรมสนุกสนาน",
+    "image": "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg",
+    "additionalImages": [
+      "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg",
+      "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg",
+      "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg",
+      "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg"
+    ],
+    "reviews": [
+      {
+        "user": "John Doe",
+        "comment": "สถานที่สวยมาก!",
+        "rating": 4.5
+      },
+      {
+        "user": "Jane Smith",
+        "comment": "ชอบมากค่ะ!",
+        "rating": 5.0
+      }
+    ]
+  }, {
+    "id": "1",
+    "name": "เกาะสมุย",
+    "description": "ชายหาดที่งดงามและน้ำทะเลใส",
+    "image": "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg",
+    "additionalImages": [
+      "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg",
+      "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg",
+      "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg",
+      "https://cdn.pixabay.com/photo/2022/10/18/14/57/forest-7530490_1280.jpg"
+    ],
+    "reviews": [
+      {
+        "user": "John Doe",
+        "comment": "สถานที่สวยมาก!",
+        "rating": 4.5
+      },
+      {
+        "user": "Jane Smith",
+        "comment": "ชอบมากค่ะ!",
+        "rating": 5.0
+      }
+    ]
+  }
+]
+
